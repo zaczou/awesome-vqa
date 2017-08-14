@@ -78,7 +78,7 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
 
  - Memory Network
     - Caiming Xiong, Stephen Merity, Richard Socher, **Dynamic Memory Networks for Visual and Textual Question Answering**, ICML 2016. [[Paper]](http://arxiv.org/abs/1603.01417)
-    - Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05676)
+    - Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05676) [[code]](https://github.com/barronalex/Dynamic-Memory-Networks-in-TensorFlow)
 
 ### Video QA
   - Kuo-Hao Zeng, Tseng-Hung Chen, Ching-Yao Chuang, Yuan-Hong Liao, Juan Carlos Niebles, Min Sun, **Leveraging Video Descriptions to Learn Video Question Answering**, AAAI 2017. [[paper]](https://arxiv.org/abs/1611.04021)
