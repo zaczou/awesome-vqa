@@ -26,7 +26,8 @@ Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal 
     - Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap, **A simple neural network module for relational reasoning**,		arXiv:1706.01427, 2017. [[Paper]](https://arxiv.org/abs/1706.01427)
 
 ### Image QA
- - Latest Papers
+- Latest Papers
+    - Zhou, Yu and Jun, Yu and Jianping: **Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering** [[Paper]](https://arxiv.org/abs/1708.01471) [[caffe-py]](https://github.com/yuzcccc/vqa-mfb)
     - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
 A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)
