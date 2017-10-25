@@ -27,6 +27,7 @@ Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal 
 
 ### Image QA
 - Latest Papers
+    - Teney: **Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge** [[paper]](https://arxiv.org/pdf/1708.02711.pdf) [[pytorch]](https://github.com/markdtw/vqa-winner-cvprw-2017
     - Zhou, Yu and Jun, Yu and Jianping: **Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering** [[Paper]](https://arxiv.org/abs/1708.01471) [[caffe-py]](https://github.com/yuzcccc/vqa-mfb)
     - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[pytorch]](https://github.com/Cadene/vqa.pytorch)
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
