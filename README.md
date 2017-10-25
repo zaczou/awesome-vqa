@@ -27,13 +27,13 @@ Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal 
 
 ### Image QA
 - Latest Papers
-    - Teney: **Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge** [[paper]](https://arxiv.org/pdf/1708.02711.pdf) [[pytorch]](https://github.com/markdtw/vqa-winner-cvprw-2017
+    - Teney: **Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge** [[paper]](https://arxiv.org/pdf/1708.02711.pdf) [[pytorch]](https://github.com/markdtw/vqa-winner-cvprw-2017)
     - Zhou, Yu and Jun, Yu and Jianping: **Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering** [[Paper]](https://arxiv.org/abs/1708.01471) [[caffe-py]](https://github.com/yuzcccc/vqa-mfb)
     - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[pytorch]](https://github.com/Cadene/vqa.pytorch)
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
-A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162)
+A Strong Baseline For Visual Question Answering**[[Paper]](https://arxiv.org/abs/1704.03162)
 [[pytorch]](https://github.com/Cyanogenoid/pytorch-vqa) [[keras]](https://github.com/adamcasson/show_ask_attend_answer)
-    - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** arXiv:1703.09684, 2017. [[Paper]](https://arxiv.org/abs/1703.09684)
+    - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** [[Paper]](https://arxiv.org/abs/1703.09684)
     - Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471) [[Code]](https://github.com/changywtw/Dual-Attention-Network)
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)[[Lua]](https://github.com/jnhwkim/MulLowBiVQA)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) [[code]](https://github.com/akirafukui/vqa-mcb)
