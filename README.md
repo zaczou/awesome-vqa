@@ -33,7 +33,7 @@ Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal 
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
 A Strong Baseline For Visual Question Answering**[[Paper]](https://arxiv.org/abs/1704.03162)
 [[pytorch]](https://github.com/Cyanogenoid/pytorch-vqa) [[keras]](https://github.com/adamcasson/show_ask_attend_answer)
-    - Kfle. **Visual Question Answering: Datasets, Algorithms, and Future Challenges.*** [[paper]](https://arxiv.org/abs/1610.01465)
+    - Kfle. ***Visual Question Answering: Datasets, Algorithms, and Future Challenges.*** [[paper]](https://arxiv.org/abs/1610.01465)
     - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** [[Paper]](https://arxiv.org/abs/1703.09684)
     - Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471) [[Code]](https://github.com/changywtw/Dual-Attention-Network)
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)[[Lua]](https://github.com/jnhwkim/MulLowBiVQA)
